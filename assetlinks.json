@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.acr21.mx.android.beta",
+    "sha256_cert_fingerprints":
+    ["EE:1C:71:7C:BB:6A:10:83:26:2E:02:83:CD:32:55:B7:5F:8D:90:00:2D:CE:9A:0B:E6:1A:25:AC:3D:98:F8:1E"]
+  }
+}]

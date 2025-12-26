@@ -4,6 +4,8 @@
     "namespace": "android_app",
     "package_name": "com.acr21.mx.android.beta",
     "sha256_cert_fingerprints":
-    ["EE:1C:71:7C:BB:6A:10:83:26:2E:02:83:CD:32:55:B7:5F:8D:90:00:2D:CE:9A:0B:E6:1A:25:AC:3D:98:F8:1E"]
+    ["C4:DF:66:FD:C8:58:B0:16:55:A7:0E:BD:58:7B:DA:0E:BA:07:4A:02:B9:D6:69:A0:B8:CF:8A:B0:FC:CA:45:7C", 
+      "EE:1C:71:7C:BB:6A:10:83:26:2E:02:83:CD:32:55:B7:5F:8D:90:00:2D:CE:9A:0B:E6:1A:25:AC:3D:98:F8:1E",
+      "61:FC:61:8A:D5:4B:09:1B:60:AE:95:03:E9:07:41:F1:26:95:B1:2D:68:3B:8E:C1:EB:1C:47:98:F1:BD:CF:60"]
   }
 }]

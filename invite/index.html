@@ -1,13 +1,43 @@
-<html>
+<html data-bs-theme="dark">
 <head>
     <title>2DMX Motocross Invite</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <style>
+        .platform-container{
+            display: inline-table;
+            padding: 20px;
+        }
+
+        .platform-text {
+            font-size: 1.5rem;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            /* display: inline-block; */
+            border-top: 1px;
+            border-bottom: 1px;
+        }
+    </style>
 </head>
 <body>
     <div class="container mt-5 text-center">
-        <h1>2DMX Motocross</h1>
-        <h2>Invite</h2>
-        <a href="https://play.google.com/apps/testing/com.acr21.mx.android.beta">Join the 2DMX Beta and race against other players!</a>
+        <img src="../content/img/AppIcon-512.png" />
+        <h1 class="mt-5">2DMX Motocross</h1>
+        <div class="container">
+            <div class="mt-5 text-center">
+                <div class="platform-container">
+                    <img class="pb-3" height="100px" src="../content/img/android-head_flat.svg" />
+                    <div>
+                        <a class="btn platform-text" style="background-color: black;" href="https://play.google.com/apps/testing/com.acr21.mx.android.beta" role="button">Download Beta for Android</a>
+                    </div>
+                </div>
+                <div class="platform-container">
+                    <img class="pb-3" height="100px" src="../content/img/Apple_logo_white.svg" />
+                    <div class="platform-text">
+                        Coming Soon for iOS!
+                    </div>
+                </div>
+            </div>
+        </div>   
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </body>

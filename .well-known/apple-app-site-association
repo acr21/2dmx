@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "L5S38U2K3N.com.acr21.mx.ios",
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches all links on this domain"
+          }
+        ]
+      }
+    ]
+  }
+}
